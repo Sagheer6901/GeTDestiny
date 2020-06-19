@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1025860064244",
+    "firebase_url": "https://getdestiny-d9b50.firebaseio.com",
+    "project_id": "getdestiny-d9b50",
+    "storage_bucket": "getdestiny-d9b50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025860064244:android:8f4c0e5743496fe4",
+        "android_client_info": {
+          "package_name": "com.example.saghe.getdestiny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025860064244-0tfjpumpphlm85kqtklbapahq7keetj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saghe.getdestiny",
+            "certificate_hash": "67795d02f4fb80940df7f3af1d88183ceaa3741e"
+          }
+        },
+        {
+          "client_id": "1025860064244-oo6gnmelo4hoio5gn9keucifg6m1kdea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEj33R9Jv7NNCHSjhLochwsOYNXnSqOCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025860064244-oo6gnmelo4hoio5gn9keucifg6m1kdea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
